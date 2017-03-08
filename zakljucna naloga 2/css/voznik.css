@@ -1,0 +1,54 @@
+header {
+    max-height: 500px;
+    background-position: center -20px;
+    box-shadow: none!important;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    color: red;
+    font-weight: 100;
+}
+
+main {
+    background-color: whitesmoke;
+}
+
+table {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+hr {
+    width: 96%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+h2 {
+    margin-top: 10px;
+    font-weight: 100;
+    text-shadow: none!important;
+    color: red!important;
+}
+
+th {
+    text-align: left;
+    padding-left: 5%;
+    max-width: 80px;
+}
+
+td {
+    padding-left: 5%;
+}
+
+p {
+    color: black;
+    font-family: 'Cairo', sans-serif;
+    padding: 20px 20px;
+    padding-top: 0;
+}

@@ -1,0 +1,61 @@
+header {
+    height: 100vh;
+    background-image: url(../img/cover_piste.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    max-height: 650px;
+}
+
+section#piste {
+    background-color: whitesmoke;
+}
+
+.piste {
+    width: 200px;
+    display: inline-block;
+    height: 365px;
+    border: 2px solid rgba(211, 203, 203, 0.63);
+    margin: 8px;
+}
+
+.slika-pista {
+    width: 100%;
+}
+
+.podatki-piste {
+    height: 26px;
+    position: relative;
+}
+
+.podatki-piste h3 {
+    text-align: center;
+    width: 100%;
+    position: absolute;
+}
+
+h1 {
+    text-align: center;
+    width: 98%;
+    margin: 0 auto;
+    border-bottom: 2px solid rgba(206, 192, 192, 0.72);
+    font-size: 2.5em;
+}
+
+table {
+    position: absolute;
+    top: 20px;
+    width: 100%;
+}
+
+td, th {
+    font-size: 90%;
+    font-weight: 100;
+    font-family: 'Cairo', sans-serif;
+    line-height: 20px;
+}
+
+tr {
+    
+}
+
